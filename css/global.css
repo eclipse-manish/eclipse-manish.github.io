@@ -9,6 +9,7 @@
     --violet: 156, 39, 176;
     --theme-color: var(--white);
 }
+
 html, body{
     scroll-behavior: smooth;
     height: 100%;
