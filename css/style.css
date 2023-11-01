@@ -1,0 +1,13 @@
+.container{
+    background-color: rgba(50, 50, 50, 0.2);
+    backdrop-filter: blur(3px);
+    color: #fff;
+    display: flex;
+    flex-direction: column;
+    width: min(600px, calc(100% - 2rem));
+    font-size: 3.2rem;
+    margin: 10rem auto;
+    align-items: center;
+    outline: 20px solid red;
+    outline-offset: 10px;
+}
