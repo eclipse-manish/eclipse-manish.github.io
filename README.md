@@ -1,6 +1,7 @@
 # Testing My Product.
 
-```php 
+```bash
 $ npm update
-$ npm install astro
+$ npm install react react-dom
+$ npm upgrade
 ```
